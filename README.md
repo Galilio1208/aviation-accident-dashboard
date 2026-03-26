@@ -102,19 +102,19 @@ This project uses aviation accident records containing fields such as:
 
 \### Main Dashboard
 
-!\[Dashboard Overview](images/dashboard-overview.png)
+!\[Dashboard Overview](Images/dashboard-overview.png)
 
 
 
 \### KPI Section
 
-!\[KPI Cards](images/kpi-cards.png)
+!\[KPI Cards](Images/kpi-cards.png)
 
 
 
 \### Filters
 
-!\[Filters](images/filters.png)
+!\[Filters](Images/filters.png)
 
 
 
@@ -126,7 +126,7 @@ A detailed project report is available here:
 
 
 
-\[Project Overview PDF](docs/Aviation\_Accident\_Dashboard\_Report.pdf)
+\[Project Overview PDF](docs/Aviation_Accident_Dashboard_Project_Overview.pdf)
 
 
 
